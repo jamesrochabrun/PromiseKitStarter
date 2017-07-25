@@ -1,0 +1,6 @@
+framework module Pods_PromieKitStockCode {
+  umbrella header "Pods-PromieKitStockCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
